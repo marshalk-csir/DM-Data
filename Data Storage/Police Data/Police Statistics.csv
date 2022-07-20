@@ -1,0 +1,1001 @@
+Province,Police Station,Crime,Year,Incidents
+KZN,Alexandra Road,All theft not mentioned elsewhere,2005,623
+KZN,Alexandra Road,All theft not mentioned elsewhere,2006,742
+KZN,Alexandra Road,All theft not mentioned elsewhere,2007,818
+KZN,Alexandra Road,All theft not mentioned elsewhere,2008,705
+KZN,Alexandra Road,All theft not mentioned elsewhere,2009,650
+KZN,Alexandra Road,All theft not mentioned elsewhere,2010,554
+KZN,Alexandra Road,All theft not mentioned elsewhere,2011,723
+KZN,Alexandra Road,All theft not mentioned elsewhere,2012,708
+KZN,Alexandra Road,All theft not mentioned elsewhere,2013,617
+KZN,Alexandra Road,All theft not mentioned elsewhere,2014,27
+KZN,Alexandra Road,Arson,2005,2
+KZN,Alexandra Road,Arson,2006,2
+KZN,Alexandra Road,Arson,2007,8
+KZN,Alexandra Road,Arson,2008,7
+KZN,Alexandra Road,Arson,2009,9
+KZN,Alexandra Road,Arson,2010,7
+KZN,Alexandra Road,Arson,2011,6
+KZN,Alexandra Road,Arson,2012,3
+KZN,Alexandra Road,Arson,2013,3
+KZN,Alexandra Road,Arson,2014,0
+KZN,Alexandra Road,Assault with the intent to inflict grievous bodily harm,2005,75
+KZN,Alexandra Road,Assault with the intent to inflict grievous bodily harm,2006,83
+KZN,Alexandra Road,Assault with the intent to inflict grievous bodily harm,2007,100
+KZN,Alexandra Road,Assault with the intent to inflict grievous bodily harm,2008,95
+KZN,Alexandra Road,Assault with the intent to inflict grievous bodily harm,2009,110
+KZN,Alexandra Road,Assault with the intent to inflict grievous bodily harm,2010,175
+KZN,Alexandra Road,Assault with the intent to inflict grievous bodily harm,2011,140
+KZN,Alexandra Road,Assault with the intent to inflict grievous bodily harm,2012,149
+KZN,Alexandra Road,Assault with the intent to inflict grievous bodily harm,2013,136
+KZN,Alexandra Road,Assault with the intent to inflict grievous bodily harm,2014,32
+KZN,Alexandra Road,Attempted murder,2005,20
+KZN,Alexandra Road,Attempted murder,2006,13
+KZN,Alexandra Road,Attempted murder,2007,14
+KZN,Alexandra Road,Attempted murder,2008,10
+KZN,Alexandra Road,Attempted murder,2009,15
+KZN,Alexandra Road,Attempted murder,2010,25
+KZN,Alexandra Road,Attempted murder,2011,24
+KZN,Alexandra Road,Attempted murder,2012,21
+KZN,Alexandra Road,Attempted murder,2013,18
+KZN,Alexandra Road,Attempted murder,2014,2
+KZN,Alexandra Road,Burglary at non-residential premises,2005,82
+KZN,Alexandra Road,Burglary at non-residential premises,2006,90
+KZN,Alexandra Road,Burglary at non-residential premises,2007,105
+KZN,Alexandra Road,Burglary at non-residential premises,2008,57
+KZN,Alexandra Road,Burglary at non-residential premises,2009,49
+KZN,Alexandra Road,Burglary at non-residential premises,2010,107
+KZN,Alexandra Road,Burglary at non-residential premises,2011,84
+KZN,Alexandra Road,Burglary at non-residential premises,2012,89
+KZN,Alexandra Road,Burglary at non-residential premises,2013,109
+KZN,Alexandra Road,Burglary at non-residential premises,2014,5
+KZN,Alexandra Road,Burglary at residential premises,2005,631
+KZN,Alexandra Road,Burglary at residential premises,2006,659
+KZN,Alexandra Road,Burglary at residential premises,2007,732
+KZN,Alexandra Road,Burglary at residential premises,2008,618
+KZN,Alexandra Road,Burglary at residential premises,2009,520
+KZN,Alexandra Road,Burglary at residential premises,2010,556
+KZN,Alexandra Road,Burglary at residential premises,2011,586
+KZN,Alexandra Road,Burglary at residential premises,2012,816
+KZN,Alexandra Road,Burglary at residential premises,2013,706
+KZN,Alexandra Road,Burglary at residential premises,2014,51
+KZN,Alexandra Road,Carjacking,2005,19
+KZN,Alexandra Road,Carjacking,2006,16
+KZN,Alexandra Road,Carjacking,2007,17
+KZN,Alexandra Road,Carjacking,2008,10
+KZN,Alexandra Road,Carjacking,2009,29
+KZN,Alexandra Road,Carjacking,2010,16
+KZN,Alexandra Road,Carjacking,2011,17
+KZN,Alexandra Road,Carjacking,2012,15
+KZN,Alexandra Road,Carjacking,2013,19
+KZN,Alexandra Road,Carjacking,2014,1
+KZN,Alexandra Road,Commercial crime,2005,51
+KZN,Alexandra Road,Commercial crime,2006,98
+KZN,Alexandra Road,Commercial crime,2007,197
+KZN,Alexandra Road,Commercial crime,2008,140
+KZN,Alexandra Road,Commercial crime,2009,191
+KZN,Alexandra Road,Commercial crime,2010,173
+KZN,Alexandra Road,Commercial crime,2011,217
+KZN,Alexandra Road,Commercial crime,2012,125
+KZN,Alexandra Road,Commercial crime,2013,124
+KZN,Alexandra Road,Commercial crime,2014,2
+KZN,Alexandra Road,Common assault,2005,273
+KZN,Alexandra Road,Common assault,2006,255
+KZN,Alexandra Road,Common assault,2007,228
+KZN,Alexandra Road,Common assault,2008,209
+KZN,Alexandra Road,Common assault,2009,202
+KZN,Alexandra Road,Common assault,2010,304
+KZN,Alexandra Road,Common assault,2011,334
+KZN,Alexandra Road,Common assault,2012,304
+KZN,Alexandra Road,Common assault,2013,298
+KZN,Alexandra Road,Common assault,2014,19
+KZN,Alexandra Road,Common robbery,2005,96
+KZN,Alexandra Road,Common robbery,2006,52
+KZN,Alexandra Road,Common robbery,2007,65
+KZN,Alexandra Road,Common robbery,2008,44
+KZN,Alexandra Road,Common robbery,2009,48
+KZN,Alexandra Road,Common robbery,2010,47
+KZN,Alexandra Road,Common robbery,2011,71
+KZN,Alexandra Road,Common robbery,2012,69
+KZN,Alexandra Road,Common robbery,2013,76
+KZN,Alexandra Road,Common robbery,2014,7
+KZN,Alexandra Road,Crimen injuria,2005,43
+KZN,Alexandra Road,Crimen injuria,2006,43
+KZN,Alexandra Road,Crimen injuria,2007,44
+KZN,Alexandra Road,Crimen injuria,2008,28
+KZN,Alexandra Road,Crimen injuria,2009,47
+KZN,Alexandra Road,Crimen injuria,2010,37
+KZN,Alexandra Road,Crimen injuria,2011,60
+KZN,Alexandra Road,Crimen injuria,2012,65
+KZN,Alexandra Road,Crimen injuria,2013,50
+KZN,Alexandra Road,Crimen injuria,2014,3
+KZN,Alexandra Road,Culpable homicide,2005,18
+KZN,Alexandra Road,Culpable homicide,2006,24
+KZN,Alexandra Road,Culpable homicide,2007,21
+KZN,Alexandra Road,Culpable homicide,2008,24
+KZN,Alexandra Road,Culpable homicide,2009,28
+KZN,Alexandra Road,Culpable homicide,2010,17
+KZN,Alexandra Road,Culpable homicide,2011,18
+KZN,Alexandra Road,Culpable homicide,2012,21
+KZN,Alexandra Road,Culpable homicide,2013,18
+KZN,Alexandra Road,Culpable homicide,2014,2
+KZN,Alexandra Road,Driving under the influence of alcohol or drugs,2005,103
+KZN,Alexandra Road,Driving under the influence of alcohol or drugs,2006,115
+KZN,Alexandra Road,Driving under the influence of alcohol or drugs,2007,207
+KZN,Alexandra Road,Driving under the influence of alcohol or drugs,2008,503
+KZN,Alexandra Road,Driving under the influence of alcohol or drugs,2009,641
+KZN,Alexandra Road,Driving under the influence of alcohol or drugs,2010,446
+KZN,Alexandra Road,Driving under the influence of alcohol or drugs,2011,104
+KZN,Alexandra Road,Driving under the influence of alcohol or drugs,2012,72
+KZN,Alexandra Road,Driving under the influence of alcohol or drugs,2013,53
+KZN,Alexandra Road,Driving under the influence of alcohol or drugs,2014,0
+KZN,Alexandra Road,Drug-related crime,2005,130
+KZN,Alexandra Road,Drug-related crime,2006,157
+KZN,Alexandra Road,Drug-related crime,2007,228
+KZN,Alexandra Road,Drug-related crime,2008,239
+KZN,Alexandra Road,Drug-related crime,2009,231
+KZN,Alexandra Road,Drug-related crime,2010,297
+KZN,Alexandra Road,Drug-related crime,2011,225
+KZN,Alexandra Road,Drug-related crime,2012,212
+KZN,Alexandra Road,Drug-related crime,2013,211
+KZN,Alexandra Road,Drug-related crime,2014,75
+KZN,Alexandra Road,Kidnapping,2005,1
+KZN,Alexandra Road,Kidnapping,2006,2
+KZN,Alexandra Road,Kidnapping,2007,0
+KZN,Alexandra Road,Kidnapping,2008,1
+KZN,Alexandra Road,Kidnapping,2009,0
+KZN,Alexandra Road,Kidnapping,2010,0
+KZN,Alexandra Road,Kidnapping,2011,3
+KZN,Alexandra Road,Kidnapping,2012,4
+KZN,Alexandra Road,Kidnapping,2013,4
+KZN,Alexandra Road,Kidnapping,2014,1
+KZN,Alexandra Road,Malicious injury to property,2005,184
+KZN,Alexandra Road,Malicious injury to property,2006,251
+KZN,Alexandra Road,Malicious injury to property,2007,319
+KZN,Alexandra Road,Malicious injury to property,2008,255
+KZN,Alexandra Road,Malicious injury to property,2009,199
+KZN,Alexandra Road,Malicious injury to property,2010,224
+KZN,Alexandra Road,Malicious injury to property,2011,285
+KZN,Alexandra Road,Malicious injury to property,2012,227
+KZN,Alexandra Road,Malicious injury to property,2013,222
+KZN,Alexandra Road,Malicious injury to property,2014,13
+KZN,Alexandra Road,Murder,2005,12
+KZN,Alexandra Road,Murder,2006,18
+KZN,Alexandra Road,Murder,2007,29
+KZN,Alexandra Road,Murder,2008,19
+KZN,Alexandra Road,Murder,2009,28
+KZN,Alexandra Road,Murder,2010,18
+KZN,Alexandra Road,Murder,2011,30
+KZN,Alexandra Road,Murder,2012,19
+KZN,Alexandra Road,Murder,2013,28
+KZN,Alexandra Road,Murder,2014,12
+KZN,Alexandra Road,Neglect and ill-treatment of children,2005,2
+KZN,Alexandra Road,Neglect and ill-treatment of children,2006,1
+KZN,Alexandra Road,Neglect and ill-treatment of children,2007,3
+KZN,Alexandra Road,Neglect and ill-treatment of children,2008,3
+KZN,Alexandra Road,Neglect and ill-treatment of children,2009,3
+KZN,Alexandra Road,Neglect and ill-treatment of children,2010,8
+KZN,Alexandra Road,Neglect and ill-treatment of children,2011,7
+KZN,Alexandra Road,Neglect and ill-treatment of children,2012,4
+KZN,Alexandra Road,Neglect and ill-treatment of children,2013,0
+KZN,Alexandra Road,Neglect and ill-treatment of children,2014,0
+KZN,Alexandra Road,Public violence,2005,0
+KZN,Alexandra Road,Public violence,2006,0
+KZN,Alexandra Road,Public violence,2007,0
+KZN,Alexandra Road,Public violence,2008,1
+KZN,Alexandra Road,Public violence,2009,0
+KZN,Alexandra Road,Public violence,2010,3
+KZN,Alexandra Road,Public violence,2011,1
+KZN,Alexandra Road,Public violence,2012,1
+KZN,Alexandra Road,Public violence,2013,0
+KZN,Alexandra Road,Public violence,2014,0
+KZN,Alexandra Road,Robbery at non-residential premises,2005,4
+KZN,Alexandra Road,Robbery at non-residential premises,2006,1
+KZN,Alexandra Road,Robbery at non-residential premises,2007,2
+KZN,Alexandra Road,Robbery at non-residential premises,2008,8
+KZN,Alexandra Road,Robbery at non-residential premises,2009,17
+KZN,Alexandra Road,Robbery at non-residential premises,2010,28
+KZN,Alexandra Road,Robbery at non-residential premises,2011,13
+KZN,Alexandra Road,Robbery at non-residential premises,2012,12
+KZN,Alexandra Road,Robbery at non-residential premises,2013,25
+KZN,Alexandra Road,Robbery at non-residential premises,2014,0
+KZN,Alexandra Road,Robbery at residential premises,2005,19
+KZN,Alexandra Road,Robbery at residential premises,2006,21
+KZN,Alexandra Road,Robbery at residential premises,2007,16
+KZN,Alexandra Road,Robbery at residential premises,2008,26
+KZN,Alexandra Road,Robbery at residential premises,2009,42
+KZN,Alexandra Road,Robbery at residential premises,2010,47
+KZN,Alexandra Road,Robbery at residential premises,2011,33
+KZN,Alexandra Road,Robbery at residential premises,2012,50
+KZN,Alexandra Road,Robbery at residential premises,2013,43
+KZN,Alexandra Road,Robbery at residential premises,2014,0
+KZN,Alexandra Road,Robbery with aggravating circumstances,2005,111
+KZN,Alexandra Road,Robbery with aggravating circumstances,2006,150
+KZN,Alexandra Road,Robbery with aggravating circumstances,2007,165
+KZN,Alexandra Road,Robbery with aggravating circumstances,2008,170
+KZN,Alexandra Road,Robbery with aggravating circumstances,2009,192
+KZN,Alexandra Road,Robbery with aggravating circumstances,2010,248
+KZN,Alexandra Road,Robbery with aggravating circumstances,2011,191
+KZN,Alexandra Road,Robbery with aggravating circumstances,2012,215
+KZN,Alexandra Road,Robbery with aggravating circumstances,2013,243
+KZN,Alexandra Road,Robbery with aggravating circumstances,2014,5
+KZN,Alexandra Road,Shoplifting,2005,99
+KZN,Alexandra Road,Shoplifting,2006,93
+KZN,Alexandra Road,Shoplifting,2007,75
+KZN,Alexandra Road,Shoplifting,2008,61
+KZN,Alexandra Road,Shoplifting,2009,75
+KZN,Alexandra Road,Shoplifting,2010,87
+KZN,Alexandra Road,Shoplifting,2011,89
+KZN,Alexandra Road,Shoplifting,2012,77
+KZN,Alexandra Road,Shoplifting,2013,80
+KZN,Alexandra Road,Shoplifting,2014,0
+KZN,Alexandra Road,Stock-theft,2005,8
+KZN,Alexandra Road,Stock-theft,2006,10
+KZN,Alexandra Road,Stock-theft,2007,3
+KZN,Alexandra Road,Stock-theft,2008,7
+KZN,Alexandra Road,Stock-theft,2009,6
+KZN,Alexandra Road,Stock-theft,2010,7
+KZN,Alexandra Road,Stock-theft,2011,11
+KZN,Alexandra Road,Stock-theft,2012,7
+KZN,Alexandra Road,Stock-theft,2013,8
+KZN,Alexandra Road,Stock-theft,2014,11
+KZN,Alexandra Road,Theft of motor vehicle and motorcycle,2005,261
+KZN,Alexandra Road,Theft of motor vehicle and motorcycle,2006,272
+KZN,Alexandra Road,Theft of motor vehicle and motorcycle,2007,294
+KZN,Alexandra Road,Theft of motor vehicle and motorcycle,2008,265
+KZN,Alexandra Road,Theft of motor vehicle and motorcycle,2009,299
+KZN,Alexandra Road,Theft of motor vehicle and motorcycle,2010,329
+KZN,Alexandra Road,Theft of motor vehicle and motorcycle,2011,363
+KZN,Alexandra Road,Theft of motor vehicle and motorcycle,2012,335
+KZN,Alexandra Road,Theft of motor vehicle and motorcycle,2013,255
+KZN,Alexandra Road,Theft of motor vehicle and motorcycle,2014,0
+KZN,Alexandra Road,Theft out of or from motor vehicle,2005,394
+KZN,Alexandra Road,Theft out of or from motor vehicle,2006,421
+KZN,Alexandra Road,Theft out of or from motor vehicle,2007,411
+KZN,Alexandra Road,Theft out of or from motor vehicle,2008,368
+KZN,Alexandra Road,Theft out of or from motor vehicle,2009,337
+KZN,Alexandra Road,Theft out of or from motor vehicle,2010,406
+KZN,Alexandra Road,Theft out of or from motor vehicle,2011,365
+KZN,Alexandra Road,Theft out of or from motor vehicle,2012,315
+KZN,Alexandra Road,Theft out of or from motor vehicle,2013,256
+KZN,Alexandra Road,Theft out of or from motor vehicle,2014,4
+KZN,Alexandra Road,Total Sexual Crimes,2005,57
+KZN,Alexandra Road,Total Sexual Crimes,2006,74
+KZN,Alexandra Road,Total Sexual Crimes,2007,61
+KZN,Alexandra Road,Total Sexual Crimes,2008,66
+KZN,Alexandra Road,Total Sexual Crimes,2009,76
+KZN,Alexandra Road,Total Sexual Crimes,2010,95
+KZN,Alexandra Road,Total Sexual Crimes,2011,87
+KZN,Alexandra Road,Total Sexual Crimes,2012,106
+KZN,Alexandra Road,Total Sexual Crimes,2013,109
+KZN,Alexandra Road,Total Sexual Crimes,2014,16
+KZN,Alexandra Road,Truck hijacking,2005,2
+KZN,Alexandra Road,Truck hijacking,2006,0
+KZN,Alexandra Road,Truck hijacking,2007,2
+KZN,Alexandra Road,Truck hijacking,2008,5
+KZN,Alexandra Road,Truck hijacking,2009,0
+KZN,Alexandra Road,Truck hijacking,2010,4
+KZN,Alexandra Road,Truck hijacking,2011,1
+KZN,Alexandra Road,Truck hijacking,2012,1
+KZN,Alexandra Road,Truck hijacking,2013,2
+KZN,Alexandra Road,Truck hijacking,2014,0
+KZN,Alexandra Road,Unlawful possession of firearms and ammunition,2005,10
+KZN,Alexandra Road,Unlawful possession of firearms and ammunition,2006,6
+KZN,Alexandra Road,Unlawful possession of firearms and ammunition,2007,15
+KZN,Alexandra Road,Unlawful possession of firearms and ammunition,2008,9
+KZN,Alexandra Road,Unlawful possession of firearms and ammunition,2009,11
+KZN,Alexandra Road,Unlawful possession of firearms and ammunition,2010,16
+KZN,Alexandra Road,Unlawful possession of firearms and ammunition,2011,14
+KZN,Alexandra Road,Unlawful possession of firearms and ammunition,2012,17
+KZN,Alexandra Road,Unlawful possession of firearms and ammunition,2013,33
+KZN,Alexandra Road,Unlawful possession of firearms and ammunition,2014,10
+KZN,Amangwe,All theft not mentioned elsewhere,2005,58
+KZN,Amangwe,All theft not mentioned elsewhere,2006,38
+KZN,Amangwe,All theft not mentioned elsewhere,2007,31
+KZN,Amangwe,All theft not mentioned elsewhere,2008,21
+KZN,Amangwe,All theft not mentioned elsewhere,2009,20
+KZN,Amangwe,All theft not mentioned elsewhere,2010,22
+KZN,Amangwe,All theft not mentioned elsewhere,2011,50
+KZN,Amangwe,All theft not mentioned elsewhere,2012,43
+KZN,Amangwe,All theft not mentioned elsewhere,2013,33
+KZN,Amangwe,All theft not mentioned elsewhere,2014,95
+KZN,Amangwe,Arson,2005,4
+KZN,Amangwe,Arson,2006,8
+KZN,Amangwe,Arson,2007,17
+KZN,Amangwe,Arson,2008,6
+KZN,Amangwe,Arson,2009,10
+KZN,Amangwe,Arson,2010,5
+KZN,Amangwe,Arson,2011,6
+KZN,Amangwe,Arson,2012,9
+KZN,Amangwe,Arson,2013,5
+KZN,Amangwe,Arson,2014,2
+KZN,Amangwe,Assault with the intent to inflict grievous bodily harm,2005,122
+KZN,Amangwe,Assault with the intent to inflict grievous bodily harm,2006,149
+KZN,Amangwe,Assault with the intent to inflict grievous bodily harm,2007,120
+KZN,Amangwe,Assault with the intent to inflict grievous bodily harm,2008,77
+KZN,Amangwe,Assault with the intent to inflict grievous bodily harm,2009,55
+KZN,Amangwe,Assault with the intent to inflict grievous bodily harm,2010,57
+KZN,Amangwe,Assault with the intent to inflict grievous bodily harm,2011,102
+KZN,Amangwe,Assault with the intent to inflict grievous bodily harm,2012,65
+KZN,Amangwe,Assault with the intent to inflict grievous bodily harm,2013,87
+KZN,Amangwe,Assault with the intent to inflict grievous bodily harm,2014,69
+KZN,Amangwe,Attempted murder,2005,30
+KZN,Amangwe,Attempted murder,2006,22
+KZN,Amangwe,Attempted murder,2007,37
+KZN,Amangwe,Attempted murder,2008,20
+KZN,Amangwe,Attempted murder,2009,22
+KZN,Amangwe,Attempted murder,2010,21
+KZN,Amangwe,Attempted murder,2011,18
+KZN,Amangwe,Attempted murder,2012,23
+KZN,Amangwe,Attempted murder,2013,26
+KZN,Amangwe,Attempted murder,2014,39
+KZN,Amangwe,Burglary at non-residential premises,2005,2
+KZN,Amangwe,Burglary at non-residential premises,2006,2
+KZN,Amangwe,Burglary at non-residential premises,2007,4
+KZN,Amangwe,Burglary at non-residential premises,2008,3
+KZN,Amangwe,Burglary at non-residential premises,2009,5
+KZN,Amangwe,Burglary at non-residential premises,2010,15
+KZN,Amangwe,Burglary at non-residential premises,2011,10
+KZN,Amangwe,Burglary at non-residential premises,2012,21
+KZN,Amangwe,Burglary at non-residential premises,2013,9
+KZN,Amangwe,Burglary at non-residential premises,2014,11
+KZN,Amangwe,Burglary at residential premises,2005,110
+KZN,Amangwe,Burglary at residential premises,2006,157
+KZN,Amangwe,Burglary at residential premises,2007,116
+KZN,Amangwe,Burglary at residential premises,2008,87
+KZN,Amangwe,Burglary at residential premises,2009,93
+KZN,Amangwe,Burglary at residential premises,2010,102
+KZN,Amangwe,Burglary at residential premises,2011,105
+KZN,Amangwe,Burglary at residential premises,2012,107
+KZN,Amangwe,Burglary at residential premises,2013,92
+KZN,Amangwe,Burglary at residential premises,2014,107
+KZN,Amangwe,Carjacking,2005,1
+KZN,Amangwe,Carjacking,2006,0
+KZN,Amangwe,Carjacking,2007,1
+KZN,Amangwe,Carjacking,2008,0
+KZN,Amangwe,Carjacking,2009,0
+KZN,Amangwe,Carjacking,2010,0
+KZN,Amangwe,Carjacking,2011,0
+KZN,Amangwe,Carjacking,2012,0
+KZN,Amangwe,Carjacking,2013,0
+KZN,Amangwe,Carjacking,2014,1
+KZN,Amangwe,Commercial crime,2005,1
+KZN,Amangwe,Commercial crime,2006,1
+KZN,Amangwe,Commercial crime,2007,0
+KZN,Amangwe,Commercial crime,2008,3
+KZN,Amangwe,Commercial crime,2009,0
+KZN,Amangwe,Commercial crime,2010,4
+KZN,Amangwe,Commercial crime,2011,2
+KZN,Amangwe,Commercial crime,2012,4
+KZN,Amangwe,Commercial crime,2013,0
+KZN,Amangwe,Commercial crime,2014,1
+KZN,Amangwe,Common assault,2005,72
+KZN,Amangwe,Common assault,2006,70
+KZN,Amangwe,Common assault,2007,44
+KZN,Amangwe,Common assault,2008,45
+KZN,Amangwe,Common assault,2009,25
+KZN,Amangwe,Common assault,2010,48
+KZN,Amangwe,Common assault,2011,39
+KZN,Amangwe,Common assault,2012,44
+KZN,Amangwe,Common assault,2013,47
+KZN,Amangwe,Common assault,2014,22
+KZN,Amangwe,Common robbery,2005,25
+KZN,Amangwe,Common robbery,2006,11
+KZN,Amangwe,Common robbery,2007,13
+KZN,Amangwe,Common robbery,2008,11
+KZN,Amangwe,Common robbery,2009,5
+KZN,Amangwe,Common robbery,2010,9
+KZN,Amangwe,Common robbery,2011,9
+KZN,Amangwe,Common robbery,2012,11
+KZN,Amangwe,Common robbery,2013,14
+KZN,Amangwe,Common robbery,2014,17
+KZN,Amangwe,Crimen injuria,2005,2
+KZN,Amangwe,Crimen injuria,2006,1
+KZN,Amangwe,Crimen injuria,2007,0
+KZN,Amangwe,Crimen injuria,2008,0
+KZN,Amangwe,Crimen injuria,2009,1
+KZN,Amangwe,Crimen injuria,2010,0
+KZN,Amangwe,Crimen injuria,2011,3
+KZN,Amangwe,Crimen injuria,2012,2
+KZN,Amangwe,Crimen injuria,2013,2
+KZN,Amangwe,Crimen injuria,2014,0
+KZN,Amangwe,Culpable homicide,2005,1
+KZN,Amangwe,Culpable homicide,2006,7
+KZN,Amangwe,Culpable homicide,2007,0
+KZN,Amangwe,Culpable homicide,2008,5
+KZN,Amangwe,Culpable homicide,2009,3
+KZN,Amangwe,Culpable homicide,2010,3
+KZN,Amangwe,Culpable homicide,2011,1
+KZN,Amangwe,Culpable homicide,2012,11
+KZN,Amangwe,Culpable homicide,2013,7
+KZN,Amangwe,Culpable homicide,2014,7
+KZN,Amangwe,Driving under the influence of alcohol or drugs,2005,0
+KZN,Amangwe,Driving under the influence of alcohol or drugs,2006,0
+KZN,Amangwe,Driving under the influence of alcohol or drugs,2007,1
+KZN,Amangwe,Driving under the influence of alcohol or drugs,2008,7
+KZN,Amangwe,Driving under the influence of alcohol or drugs,2009,0
+KZN,Amangwe,Driving under the influence of alcohol or drugs,2010,1
+KZN,Amangwe,Driving under the influence of alcohol or drugs,2011,2
+KZN,Amangwe,Driving under the influence of alcohol or drugs,2012,4
+KZN,Amangwe,Driving under the influence of alcohol or drugs,2013,3
+KZN,Amangwe,Driving under the influence of alcohol or drugs,2014,1
+KZN,Amangwe,Drug-related crime,2005,35
+KZN,Amangwe,Drug-related crime,2006,9
+KZN,Amangwe,Drug-related crime,2007,20
+KZN,Amangwe,Drug-related crime,2008,26
+KZN,Amangwe,Drug-related crime,2009,26
+KZN,Amangwe,Drug-related crime,2010,17
+KZN,Amangwe,Drug-related crime,2011,20
+KZN,Amangwe,Drug-related crime,2012,33
+KZN,Amangwe,Drug-related crime,2013,14
+KZN,Amangwe,Drug-related crime,2014,35
+KZN,Amangwe,Kidnapping,2005,0
+KZN,Amangwe,Kidnapping,2006,0
+KZN,Amangwe,Kidnapping,2007,3
+KZN,Amangwe,Kidnapping,2008,4
+KZN,Amangwe,Kidnapping,2009,1
+KZN,Amangwe,Kidnapping,2010,2
+KZN,Amangwe,Kidnapping,2011,0
+KZN,Amangwe,Kidnapping,2012,1
+KZN,Amangwe,Kidnapping,2013,1
+KZN,Amangwe,Kidnapping,2014,2
+KZN,Amangwe,Malicious injury to property,2005,49
+KZN,Amangwe,Malicious injury to property,2006,48
+KZN,Amangwe,Malicious injury to property,2007,33
+KZN,Amangwe,Malicious injury to property,2008,35
+KZN,Amangwe,Malicious injury to property,2009,21
+KZN,Amangwe,Malicious injury to property,2010,30
+KZN,Amangwe,Malicious injury to property,2011,29
+KZN,Amangwe,Malicious injury to property,2012,18
+KZN,Amangwe,Malicious injury to property,2013,18
+KZN,Amangwe,Malicious injury to property,2014,18
+KZN,Amangwe,Murder,2005,37
+KZN,Amangwe,Murder,2006,18
+KZN,Amangwe,Murder,2007,37
+KZN,Amangwe,Murder,2008,19
+KZN,Amangwe,Murder,2009,28
+KZN,Amangwe,Murder,2010,24
+KZN,Amangwe,Murder,2011,15
+KZN,Amangwe,Murder,2012,16
+KZN,Amangwe,Murder,2013,17
+KZN,Amangwe,Murder,2014,7
+KZN,Amangwe,Neglect and ill-treatment of children,2005,3
+KZN,Amangwe,Neglect and ill-treatment of children,2006,1
+KZN,Amangwe,Neglect and ill-treatment of children,2007,1
+KZN,Amangwe,Neglect and ill-treatment of children,2008,0
+KZN,Amangwe,Neglect and ill-treatment of children,2009,1
+KZN,Amangwe,Neglect and ill-treatment of children,2010,0
+KZN,Amangwe,Neglect and ill-treatment of children,2011,0
+KZN,Amangwe,Neglect and ill-treatment of children,2012,1
+KZN,Amangwe,Neglect and ill-treatment of children,2013,0
+KZN,Amangwe,Neglect and ill-treatment of children,2014,0
+KZN,Amangwe,Public violence,2005,0
+KZN,Amangwe,Public violence,2006,0
+KZN,Amangwe,Public violence,2007,0
+KZN,Amangwe,Public violence,2008,0
+KZN,Amangwe,Public violence,2009,0
+KZN,Amangwe,Public violence,2010,0
+KZN,Amangwe,Public violence,2011,0
+KZN,Amangwe,Public violence,2012,1
+KZN,Amangwe,Public violence,2013,1
+KZN,Amangwe,Public violence,2014,0
+KZN,Amangwe,Robbery at non-residential premises,2005,0
+KZN,Amangwe,Robbery at non-residential premises,2006,0
+KZN,Amangwe,Robbery at non-residential premises,2007,0
+KZN,Amangwe,Robbery at non-residential premises,2008,1
+KZN,Amangwe,Robbery at non-residential premises,2009,0
+KZN,Amangwe,Robbery at non-residential premises,2010,1
+KZN,Amangwe,Robbery at non-residential premises,2011,3
+KZN,Amangwe,Robbery at non-residential premises,2012,1
+KZN,Amangwe,Robbery at non-residential premises,2013,4
+KZN,Amangwe,Robbery at non-residential premises,2014,8
+KZN,Amangwe,Robbery at residential premises,2005,9
+KZN,Amangwe,Robbery at residential premises,2006,40
+KZN,Amangwe,Robbery at residential premises,2007,26
+KZN,Amangwe,Robbery at residential premises,2008,31
+KZN,Amangwe,Robbery at residential premises,2009,11
+KZN,Amangwe,Robbery at residential premises,2010,14
+KZN,Amangwe,Robbery at residential premises,2011,14
+KZN,Amangwe,Robbery at residential premises,2012,20
+KZN,Amangwe,Robbery at residential premises,2013,26
+KZN,Amangwe,Robbery at residential premises,2014,12
+KZN,Amangwe,Robbery with aggravating circumstances,2005,42
+KZN,Amangwe,Robbery with aggravating circumstances,2006,63
+KZN,Amangwe,Robbery with aggravating circumstances,2007,46
+KZN,Amangwe,Robbery with aggravating circumstances,2008,46
+KZN,Amangwe,Robbery with aggravating circumstances,2009,19
+KZN,Amangwe,Robbery with aggravating circumstances,2010,21
+KZN,Amangwe,Robbery with aggravating circumstances,2011,27
+KZN,Amangwe,Robbery with aggravating circumstances,2012,35
+KZN,Amangwe,Robbery with aggravating circumstances,2013,41
+KZN,Amangwe,Robbery with aggravating circumstances,2014,33
+KZN,Amangwe,Shoplifting,2005,0
+KZN,Amangwe,Shoplifting,2006,0
+KZN,Amangwe,Shoplifting,2007,0
+KZN,Amangwe,Shoplifting,2008,0
+KZN,Amangwe,Shoplifting,2009,0
+KZN,Amangwe,Shoplifting,2010,0
+KZN,Amangwe,Shoplifting,2011,0
+KZN,Amangwe,Shoplifting,2012,0
+KZN,Amangwe,Shoplifting,2013,0
+KZN,Amangwe,Shoplifting,2014,0
+KZN,Amangwe,Stock-theft,2005,141
+KZN,Amangwe,Stock-theft,2006,153
+KZN,Amangwe,Stock-theft,2007,139
+KZN,Amangwe,Stock-theft,2008,196
+KZN,Amangwe,Stock-theft,2009,110
+KZN,Amangwe,Stock-theft,2010,143
+KZN,Amangwe,Stock-theft,2011,147
+KZN,Amangwe,Stock-theft,2012,125
+KZN,Amangwe,Stock-theft,2013,129
+KZN,Amangwe,Stock-theft,2014,163
+KZN,Amangwe,Theft of motor vehicle and motorcycle,2005,1
+KZN,Amangwe,Theft of motor vehicle and motorcycle,2006,4
+KZN,Amangwe,Theft of motor vehicle and motorcycle,2007,5
+KZN,Amangwe,Theft of motor vehicle and motorcycle,2008,2
+KZN,Amangwe,Theft of motor vehicle and motorcycle,2009,8
+KZN,Amangwe,Theft of motor vehicle and motorcycle,2010,4
+KZN,Amangwe,Theft of motor vehicle and motorcycle,2011,5
+KZN,Amangwe,Theft of motor vehicle and motorcycle,2012,2
+KZN,Amangwe,Theft of motor vehicle and motorcycle,2013,3
+KZN,Amangwe,Theft of motor vehicle and motorcycle,2014,5
+KZN,Amangwe,Theft out of or from motor vehicle,2005,15
+KZN,Amangwe,Theft out of or from motor vehicle,2006,12
+KZN,Amangwe,Theft out of or from motor vehicle,2007,13
+KZN,Amangwe,Theft out of or from motor vehicle,2008,10
+KZN,Amangwe,Theft out of or from motor vehicle,2009,7
+KZN,Amangwe,Theft out of or from motor vehicle,2010,6
+KZN,Amangwe,Theft out of or from motor vehicle,2011,10
+KZN,Amangwe,Theft out of or from motor vehicle,2012,13
+KZN,Amangwe,Theft out of or from motor vehicle,2013,19
+KZN,Amangwe,Theft out of or from motor vehicle,2014,18
+KZN,Amangwe,Total Sexual Crimes,2005,49
+KZN,Amangwe,Total Sexual Crimes,2006,49
+KZN,Amangwe,Total Sexual Crimes,2007,42
+KZN,Amangwe,Total Sexual Crimes,2008,39
+KZN,Amangwe,Total Sexual Crimes,2009,36
+KZN,Amangwe,Total Sexual Crimes,2010,38
+KZN,Amangwe,Total Sexual Crimes,2011,47
+KZN,Amangwe,Total Sexual Crimes,2012,52
+KZN,Amangwe,Total Sexual Crimes,2013,55
+KZN,Amangwe,Total Sexual Crimes,2014,34
+KZN,Amangwe,Truck hijacking,2005,0
+KZN,Amangwe,Truck hijacking,2006,0
+KZN,Amangwe,Truck hijacking,2007,0
+KZN,Amangwe,Truck hijacking,2008,0
+KZN,Amangwe,Truck hijacking,2009,0
+KZN,Amangwe,Truck hijacking,2010,0
+KZN,Amangwe,Truck hijacking,2011,0
+KZN,Amangwe,Truck hijacking,2012,0
+KZN,Amangwe,Truck hijacking,2013,0
+KZN,Amangwe,Truck hijacking,2014,0
+KZN,Amangwe,Unlawful possession of firearms and ammunition,2005,84
+KZN,Amangwe,Unlawful possession of firearms and ammunition,2006,24
+KZN,Amangwe,Unlawful possession of firearms and ammunition,2007,25
+KZN,Amangwe,Unlawful possession of firearms and ammunition,2008,41
+KZN,Amangwe,Unlawful possession of firearms and ammunition,2009,56
+KZN,Amangwe,Unlawful possession of firearms and ammunition,2010,50
+KZN,Amangwe,Unlawful possession of firearms and ammunition,2011,60
+KZN,Amangwe,Unlawful possession of firearms and ammunition,2012,65
+KZN,Amangwe,Unlawful possession of firearms and ammunition,2013,47
+KZN,Amangwe,Unlawful possession of firearms and ammunition,2014,61
+KZN,Amanzimtoti,All theft not mentioned elsewhere,2005,895
+KZN,Amanzimtoti,All theft not mentioned elsewhere,2006,688
+KZN,Amanzimtoti,All theft not mentioned elsewhere,2007,638
+KZN,Amanzimtoti,All theft not mentioned elsewhere,2008,574
+KZN,Amanzimtoti,All theft not mentioned elsewhere,2009,629
+KZN,Amanzimtoti,All theft not mentioned elsewhere,2010,671
+KZN,Amanzimtoti,All theft not mentioned elsewhere,2011,618
+KZN,Amanzimtoti,All theft not mentioned elsewhere,2012,653
+KZN,Amanzimtoti,All theft not mentioned elsewhere,2013,566
+KZN,Amanzimtoti,All theft not mentioned elsewhere,2014,518
+KZN,Amanzimtoti,Arson,2005,6
+KZN,Amanzimtoti,Arson,2006,2
+KZN,Amanzimtoti,Arson,2007,4
+KZN,Amanzimtoti,Arson,2008,3
+KZN,Amanzimtoti,Arson,2009,5
+KZN,Amanzimtoti,Arson,2010,4
+KZN,Amanzimtoti,Arson,2011,0
+KZN,Amanzimtoti,Arson,2012,4
+KZN,Amanzimtoti,Arson,2013,3
+KZN,Amanzimtoti,Arson,2014,5
+KZN,Amanzimtoti,Assault with the intent to inflict grievous bodily harm,2005,71
+KZN,Amanzimtoti,Assault with the intent to inflict grievous bodily harm,2006,86
+KZN,Amanzimtoti,Assault with the intent to inflict grievous bodily harm,2007,86
+KZN,Amanzimtoti,Assault with the intent to inflict grievous bodily harm,2008,69
+KZN,Amanzimtoti,Assault with the intent to inflict grievous bodily harm,2009,69
+KZN,Amanzimtoti,Assault with the intent to inflict grievous bodily harm,2010,66
+KZN,Amanzimtoti,Assault with the intent to inflict grievous bodily harm,2011,64
+KZN,Amanzimtoti,Assault with the intent to inflict grievous bodily harm,2012,72
+KZN,Amanzimtoti,Assault with the intent to inflict grievous bodily harm,2013,62
+KZN,Amanzimtoti,Assault with the intent to inflict grievous bodily harm,2014,83
+KZN,Amanzimtoti,Attempted murder,2005,38
+KZN,Amanzimtoti,Attempted murder,2006,20
+KZN,Amanzimtoti,Attempted murder,2007,22
+KZN,Amanzimtoti,Attempted murder,2008,24
+KZN,Amanzimtoti,Attempted murder,2009,14
+KZN,Amanzimtoti,Attempted murder,2010,25
+KZN,Amanzimtoti,Attempted murder,2011,17
+KZN,Amanzimtoti,Attempted murder,2012,14
+KZN,Amanzimtoti,Attempted murder,2013,28
+KZN,Amanzimtoti,Attempted murder,2014,25
+KZN,Amanzimtoti,Burglary at non-residential premises,2005,89
+KZN,Amanzimtoti,Burglary at non-residential premises,2006,59
+KZN,Amanzimtoti,Burglary at non-residential premises,2007,91
+KZN,Amanzimtoti,Burglary at non-residential premises,2008,95
+KZN,Amanzimtoti,Burglary at non-residential premises,2009,85
+KZN,Amanzimtoti,Burglary at non-residential premises,2010,107
+KZN,Amanzimtoti,Burglary at non-residential premises,2011,58
+KZN,Amanzimtoti,Burglary at non-residential premises,2012,91
+KZN,Amanzimtoti,Burglary at non-residential premises,2013,113
+KZN,Amanzimtoti,Burglary at non-residential premises,2014,97
+KZN,Amanzimtoti,Burglary at residential premises,2005,561
+KZN,Amanzimtoti,Burglary at residential premises,2006,613
+KZN,Amanzimtoti,Burglary at residential premises,2007,722
+KZN,Amanzimtoti,Burglary at residential premises,2008,530
+KZN,Amanzimtoti,Burglary at residential premises,2009,589
+KZN,Amanzimtoti,Burglary at residential premises,2010,543
+KZN,Amanzimtoti,Burglary at residential premises,2011,558
+KZN,Amanzimtoti,Burglary at residential premises,2012,583
+KZN,Amanzimtoti,Burglary at residential premises,2013,914
+KZN,Amanzimtoti,Burglary at residential premises,2014,854
+KZN,Amanzimtoti,Carjacking,2005,24
+KZN,Amanzimtoti,Carjacking,2006,20
+KZN,Amanzimtoti,Carjacking,2007,89
+KZN,Amanzimtoti,Carjacking,2008,46
+KZN,Amanzimtoti,Carjacking,2009,64
+KZN,Amanzimtoti,Carjacking,2010,62
+KZN,Amanzimtoti,Carjacking,2011,35
+KZN,Amanzimtoti,Carjacking,2012,90
+KZN,Amanzimtoti,Carjacking,2013,80
+KZN,Amanzimtoti,Carjacking,2014,43
+KZN,Amanzimtoti,Commercial crime,2005,85
+KZN,Amanzimtoti,Commercial crime,2006,80
+KZN,Amanzimtoti,Commercial crime,2007,86
+KZN,Amanzimtoti,Commercial crime,2008,89
+KZN,Amanzimtoti,Commercial crime,2009,124
+KZN,Amanzimtoti,Commercial crime,2010,206
+KZN,Amanzimtoti,Commercial crime,2011,217
+KZN,Amanzimtoti,Commercial crime,2012,220
+KZN,Amanzimtoti,Commercial crime,2013,209
+KZN,Amanzimtoti,Commercial crime,2014,269
+KZN,Amanzimtoti,Common assault,2005,213
+KZN,Amanzimtoti,Common assault,2006,157
+KZN,Amanzimtoti,Common assault,2007,151
+KZN,Amanzimtoti,Common assault,2008,111
+KZN,Amanzimtoti,Common assault,2009,136
+KZN,Amanzimtoti,Common assault,2010,175
+KZN,Amanzimtoti,Common assault,2011,159
+KZN,Amanzimtoti,Common assault,2012,179
+KZN,Amanzimtoti,Common assault,2013,133
+KZN,Amanzimtoti,Common assault,2014,138
+KZN,Amanzimtoti,Common robbery,2005,88
+KZN,Amanzimtoti,Common robbery,2006,130
+KZN,Amanzimtoti,Common robbery,2007,127
+KZN,Amanzimtoti,Common robbery,2008,77
+KZN,Amanzimtoti,Common robbery,2009,91
+KZN,Amanzimtoti,Common robbery,2010,71
+KZN,Amanzimtoti,Common robbery,2011,62
+KZN,Amanzimtoti,Common robbery,2012,90
+KZN,Amanzimtoti,Common robbery,2013,77
+KZN,Amanzimtoti,Common robbery,2014,77
+KZN,Amanzimtoti,Crimen injuria,2005,76
+KZN,Amanzimtoti,Crimen injuria,2006,79
+KZN,Amanzimtoti,Crimen injuria,2007,35
+KZN,Amanzimtoti,Crimen injuria,2008,46
+KZN,Amanzimtoti,Crimen injuria,2009,33
+KZN,Amanzimtoti,Crimen injuria,2010,34
+KZN,Amanzimtoti,Crimen injuria,2011,37
+KZN,Amanzimtoti,Crimen injuria,2012,24
+KZN,Amanzimtoti,Crimen injuria,2013,27
+KZN,Amanzimtoti,Crimen injuria,2014,34
+KZN,Amanzimtoti,Culpable homicide,2005,24
+KZN,Amanzimtoti,Culpable homicide,2006,20
+KZN,Amanzimtoti,Culpable homicide,2007,23
+KZN,Amanzimtoti,Culpable homicide,2008,22
+KZN,Amanzimtoti,Culpable homicide,2009,21
+KZN,Amanzimtoti,Culpable homicide,2010,27
+KZN,Amanzimtoti,Culpable homicide,2011,14
+KZN,Amanzimtoti,Culpable homicide,2012,21
+KZN,Amanzimtoti,Culpable homicide,2013,16
+KZN,Amanzimtoti,Culpable homicide,2014,25
+KZN,Amanzimtoti,Driving under the influence of alcohol or drugs,2005,176
+KZN,Amanzimtoti,Driving under the influence of alcohol or drugs,2006,264
+KZN,Amanzimtoti,Driving under the influence of alcohol or drugs,2007,392
+KZN,Amanzimtoti,Driving under the influence of alcohol or drugs,2008,368
+KZN,Amanzimtoti,Driving under the influence of alcohol or drugs,2009,457
+KZN,Amanzimtoti,Driving under the influence of alcohol or drugs,2010,549
+KZN,Amanzimtoti,Driving under the influence of alcohol or drugs,2011,619
+KZN,Amanzimtoti,Driving under the influence of alcohol or drugs,2012,432
+KZN,Amanzimtoti,Driving under the influence of alcohol or drugs,2013,496
+KZN,Amanzimtoti,Driving under the influence of alcohol or drugs,2014,309
+KZN,Amanzimtoti,Drug-related crime,2005,252
+KZN,Amanzimtoti,Drug-related crime,2006,315
+KZN,Amanzimtoti,Drug-related crime,2007,357
+KZN,Amanzimtoti,Drug-related crime,2008,322
+KZN,Amanzimtoti,Drug-related crime,2009,348
+KZN,Amanzimtoti,Drug-related crime,2010,304
+KZN,Amanzimtoti,Drug-related crime,2011,383
+KZN,Amanzimtoti,Drug-related crime,2012,301
+KZN,Amanzimtoti,Drug-related crime,2013,229
+KZN,Amanzimtoti,Drug-related crime,2014,223
+KZN,Amanzimtoti,Kidnapping,2005,0
+KZN,Amanzimtoti,Kidnapping,2006,2
+KZN,Amanzimtoti,Kidnapping,2007,0
+KZN,Amanzimtoti,Kidnapping,2008,1
+KZN,Amanzimtoti,Kidnapping,2009,2
+KZN,Amanzimtoti,Kidnapping,2010,1
+KZN,Amanzimtoti,Kidnapping,2011,5
+KZN,Amanzimtoti,Kidnapping,2012,4
+KZN,Amanzimtoti,Kidnapping,2013,8
+KZN,Amanzimtoti,Kidnapping,2014,4
+KZN,Amanzimtoti,Malicious injury to property,2005,291
+KZN,Amanzimtoti,Malicious injury to property,2006,271
+KZN,Amanzimtoti,Malicious injury to property,2007,286
+KZN,Amanzimtoti,Malicious injury to property,2008,200
+KZN,Amanzimtoti,Malicious injury to property,2009,163
+KZN,Amanzimtoti,Malicious injury to property,2010,195
+KZN,Amanzimtoti,Malicious injury to property,2011,187
+KZN,Amanzimtoti,Malicious injury to property,2012,138
+KZN,Amanzimtoti,Malicious injury to property,2013,148
+KZN,Amanzimtoti,Malicious injury to property,2014,165
+KZN,Amanzimtoti,Murder,2005,18
+KZN,Amanzimtoti,Murder,2006,17
+KZN,Amanzimtoti,Murder,2007,22
+KZN,Amanzimtoti,Murder,2008,14
+KZN,Amanzimtoti,Murder,2009,16
+KZN,Amanzimtoti,Murder,2010,21
+KZN,Amanzimtoti,Murder,2011,16
+KZN,Amanzimtoti,Murder,2012,20
+KZN,Amanzimtoti,Murder,2013,13
+KZN,Amanzimtoti,Murder,2014,8
+KZN,Amanzimtoti,Neglect and ill-treatment of children,2005,4
+KZN,Amanzimtoti,Neglect and ill-treatment of children,2006,4
+KZN,Amanzimtoti,Neglect and ill-treatment of children,2007,2
+KZN,Amanzimtoti,Neglect and ill-treatment of children,2008,7
+KZN,Amanzimtoti,Neglect and ill-treatment of children,2009,5
+KZN,Amanzimtoti,Neglect and ill-treatment of children,2010,1
+KZN,Amanzimtoti,Neglect and ill-treatment of children,2011,5
+KZN,Amanzimtoti,Neglect and ill-treatment of children,2012,0
+KZN,Amanzimtoti,Neglect and ill-treatment of children,2013,2
+KZN,Amanzimtoti,Neglect and ill-treatment of children,2014,7
+KZN,Amanzimtoti,Public violence,2005,1
+KZN,Amanzimtoti,Public violence,2006,2
+KZN,Amanzimtoti,Public violence,2007,1
+KZN,Amanzimtoti,Public violence,2008,0
+KZN,Amanzimtoti,Public violence,2009,0
+KZN,Amanzimtoti,Public violence,2010,0
+KZN,Amanzimtoti,Public violence,2011,0
+KZN,Amanzimtoti,Public violence,2012,0
+KZN,Amanzimtoti,Public violence,2013,1
+KZN,Amanzimtoti,Public violence,2014,0
+KZN,Amanzimtoti,Robbery at non-residential premises,2005,1
+KZN,Amanzimtoti,Robbery at non-residential premises,2006,8
+KZN,Amanzimtoti,Robbery at non-residential premises,2007,9
+KZN,Amanzimtoti,Robbery at non-residential premises,2008,5
+KZN,Amanzimtoti,Robbery at non-residential premises,2009,22
+KZN,Amanzimtoti,Robbery at non-residential premises,2010,13
+KZN,Amanzimtoti,Robbery at non-residential premises,2011,13
+KZN,Amanzimtoti,Robbery at non-residential premises,2012,15
+KZN,Amanzimtoti,Robbery at non-residential premises,2013,15
+KZN,Amanzimtoti,Robbery at non-residential premises,2014,18
+KZN,Amanzimtoti,Robbery at residential premises,2005,4
+KZN,Amanzimtoti,Robbery at residential premises,2006,7
+KZN,Amanzimtoti,Robbery at residential premises,2007,22
+KZN,Amanzimtoti,Robbery at residential premises,2008,46
+KZN,Amanzimtoti,Robbery at residential premises,2009,54
+KZN,Amanzimtoti,Robbery at residential premises,2010,40
+KZN,Amanzimtoti,Robbery at residential premises,2011,27
+KZN,Amanzimtoti,Robbery at residential premises,2012,33
+KZN,Amanzimtoti,Robbery at residential premises,2013,47
+KZN,Amanzimtoti,Robbery at residential premises,2014,34
+KZN,Amanzimtoti,Robbery with aggravating circumstances,2005,163
+KZN,Amanzimtoti,Robbery with aggravating circumstances,2006,201
+KZN,Amanzimtoti,Robbery with aggravating circumstances,2007,278
+KZN,Amanzimtoti,Robbery with aggravating circumstances,2008,188
+KZN,Amanzimtoti,Robbery with aggravating circumstances,2009,206
+KZN,Amanzimtoti,Robbery with aggravating circumstances,2010,219
+KZN,Amanzimtoti,Robbery with aggravating circumstances,2011,166
+KZN,Amanzimtoti,Robbery with aggravating circumstances,2012,252
+KZN,Amanzimtoti,Robbery with aggravating circumstances,2013,252
+KZN,Amanzimtoti,Robbery with aggravating circumstances,2014,209
+KZN,Amanzimtoti,Shoplifting,2005,117
+KZN,Amanzimtoti,Shoplifting,2006,104
+KZN,Amanzimtoti,Shoplifting,2007,114
+KZN,Amanzimtoti,Shoplifting,2008,113
+KZN,Amanzimtoti,Shoplifting,2009,169
+KZN,Amanzimtoti,Shoplifting,2010,284
+KZN,Amanzimtoti,Shoplifting,2011,350
+KZN,Amanzimtoti,Shoplifting,2012,358
+KZN,Amanzimtoti,Shoplifting,2013,387
+KZN,Amanzimtoti,Shoplifting,2014,431
+KZN,Amanzimtoti,Stock-theft,2005,16
+KZN,Amanzimtoti,Stock-theft,2006,5
+KZN,Amanzimtoti,Stock-theft,2007,4
+KZN,Amanzimtoti,Stock-theft,2008,4
+KZN,Amanzimtoti,Stock-theft,2009,6
+KZN,Amanzimtoti,Stock-theft,2010,5
+KZN,Amanzimtoti,Stock-theft,2011,10
+KZN,Amanzimtoti,Stock-theft,2012,6
+KZN,Amanzimtoti,Stock-theft,2013,3
+KZN,Amanzimtoti,Stock-theft,2014,8
+KZN,Amanzimtoti,Theft of motor vehicle and motorcycle,2005,299
+KZN,Amanzimtoti,Theft of motor vehicle and motorcycle,2006,476
+KZN,Amanzimtoti,Theft of motor vehicle and motorcycle,2007,490
+KZN,Amanzimtoti,Theft of motor vehicle and motorcycle,2008,353
+KZN,Amanzimtoti,Theft of motor vehicle and motorcycle,2009,301
+KZN,Amanzimtoti,Theft of motor vehicle and motorcycle,2010,348
+KZN,Amanzimtoti,Theft of motor vehicle and motorcycle,2011,274
+KZN,Amanzimtoti,Theft of motor vehicle and motorcycle,2012,288
+KZN,Amanzimtoti,Theft of motor vehicle and motorcycle,2013,319
+KZN,Amanzimtoti,Theft of motor vehicle and motorcycle,2014,264
+KZN,Amanzimtoti,Theft out of or from motor vehicle,2005,484
+KZN,Amanzimtoti,Theft out of or from motor vehicle,2006,458
+KZN,Amanzimtoti,Theft out of or from motor vehicle,2007,472
+KZN,Amanzimtoti,Theft out of or from motor vehicle,2008,238
+KZN,Amanzimtoti,Theft out of or from motor vehicle,2009,184
+KZN,Amanzimtoti,Theft out of or from motor vehicle,2010,235
+KZN,Amanzimtoti,Theft out of or from motor vehicle,2011,206
+KZN,Amanzimtoti,Theft out of or from motor vehicle,2012,283
+KZN,Amanzimtoti,Theft out of or from motor vehicle,2013,283
+KZN,Amanzimtoti,Theft out of or from motor vehicle,2014,358
+KZN,Amanzimtoti,Total Sexual Crimes,2005,57
+KZN,Amanzimtoti,Total Sexual Crimes,2006,61
+KZN,Amanzimtoti,Total Sexual Crimes,2007,61
+KZN,Amanzimtoti,Total Sexual Crimes,2008,45
+KZN,Amanzimtoti,Total Sexual Crimes,2009,67
+KZN,Amanzimtoti,Total Sexual Crimes,2010,58
+KZN,Amanzimtoti,Total Sexual Crimes,2011,71
+KZN,Amanzimtoti,Total Sexual Crimes,2012,54
+KZN,Amanzimtoti,Total Sexual Crimes,2013,49
+KZN,Amanzimtoti,Total Sexual Crimes,2014,62
+KZN,Amanzimtoti,Truck hijacking,2005,1
+KZN,Amanzimtoti,Truck hijacking,2006,1
+KZN,Amanzimtoti,Truck hijacking,2007,0
+KZN,Amanzimtoti,Truck hijacking,2008,0
+KZN,Amanzimtoti,Truck hijacking,2009,0
+KZN,Amanzimtoti,Truck hijacking,2010,0
+KZN,Amanzimtoti,Truck hijacking,2011,3
+KZN,Amanzimtoti,Truck hijacking,2012,0
+KZN,Amanzimtoti,Truck hijacking,2013,1
+KZN,Amanzimtoti,Truck hijacking,2014,1
+KZN,Amanzimtoti,Unlawful possession of firearms and ammunition,2005,38
+KZN,Amanzimtoti,Unlawful possession of firearms and ammunition,2006,62
+KZN,Amanzimtoti,Unlawful possession of firearms and ammunition,2007,94
+KZN,Amanzimtoti,Unlawful possession of firearms and ammunition,2008,21
+KZN,Amanzimtoti,Unlawful possession of firearms and ammunition,2009,28
+KZN,Amanzimtoti,Unlawful possession of firearms and ammunition,2010,41
+KZN,Amanzimtoti,Unlawful possession of firearms and ammunition,2011,36
+KZN,Amanzimtoti,Unlawful possession of firearms and ammunition,2012,29
+KZN,Amanzimtoti,Unlawful possession of firearms and ammunition,2013,23
+KZN,Amanzimtoti,Unlawful possession of firearms and ammunition,2014,20
+KZN,Babanango,All theft not mentioned elsewhere,2005,98
+KZN,Babanango,All theft not mentioned elsewhere,2006,74
+KZN,Babanango,All theft not mentioned elsewhere,2007,42
+KZN,Babanango,All theft not mentioned elsewhere,2008,70
+KZN,Babanango,All theft not mentioned elsewhere,2009,82
+KZN,Babanango,All theft not mentioned elsewhere,2010,73
+KZN,Babanango,All theft not mentioned elsewhere,2011,41
+KZN,Babanango,All theft not mentioned elsewhere,2012,55
+KZN,Babanango,All theft not mentioned elsewhere,2013,47
+KZN,Babanango,All theft not mentioned elsewhere,2014,74
+KZN,Babanango,Arson,2005,8
+KZN,Babanango,Arson,2006,5
+KZN,Babanango,Arson,2007,9
+KZN,Babanango,Arson,2008,14
+KZN,Babanango,Arson,2009,2
+KZN,Babanango,Arson,2010,4
+KZN,Babanango,Arson,2011,7
+KZN,Babanango,Arson,2012,3
+KZN,Babanango,Arson,2013,6
+KZN,Babanango,Arson,2014,3
+KZN,Babanango,Assault with the intent to inflict grievous bodily harm,2005,62
+KZN,Babanango,Assault with the intent to inflict grievous bodily harm,2006,52
+KZN,Babanango,Assault with the intent to inflict grievous bodily harm,2007,69
+KZN,Babanango,Assault with the intent to inflict grievous bodily harm,2008,92
+KZN,Babanango,Assault with the intent to inflict grievous bodily harm,2009,81
+KZN,Babanango,Assault with the intent to inflict grievous bodily harm,2010,81
+KZN,Babanango,Assault with the intent to inflict grievous bodily harm,2011,86
+KZN,Babanango,Assault with the intent to inflict grievous bodily harm,2012,56
+KZN,Babanango,Assault with the intent to inflict grievous bodily harm,2013,67
+KZN,Babanango,Assault with the intent to inflict grievous bodily harm,2014,56
+KZN,Babanango,Attempted murder,2005,8
+KZN,Babanango,Attempted murder,2006,6
+KZN,Babanango,Attempted murder,2007,7
+KZN,Babanango,Attempted murder,2008,9
+KZN,Babanango,Attempted murder,2009,4
+KZN,Babanango,Attempted murder,2010,13
+KZN,Babanango,Attempted murder,2011,6
+KZN,Babanango,Attempted murder,2012,4
+KZN,Babanango,Attempted murder,2013,0
+KZN,Babanango,Attempted murder,2014,6
+KZN,Babanango,Burglary at non-residential premises,2005,8
+KZN,Babanango,Burglary at non-residential premises,2006,17
+KZN,Babanango,Burglary at non-residential premises,2007,12
+KZN,Babanango,Burglary at non-residential premises,2008,13
+KZN,Babanango,Burglary at non-residential premises,2009,16
+KZN,Babanango,Burglary at non-residential premises,2010,12
+KZN,Babanango,Burglary at non-residential premises,2011,17
+KZN,Babanango,Burglary at non-residential premises,2012,7
+KZN,Babanango,Burglary at non-residential premises,2013,14
+KZN,Babanango,Burglary at non-residential premises,2014,22
+KZN,Babanango,Burglary at residential premises,2005,53
+KZN,Babanango,Burglary at residential premises,2006,42
+KZN,Babanango,Burglary at residential premises,2007,42
+KZN,Babanango,Burglary at residential premises,2008,19
+KZN,Babanango,Burglary at residential premises,2009,23
+KZN,Babanango,Burglary at residential premises,2010,25
+KZN,Babanango,Burglary at residential premises,2011,22
+KZN,Babanango,Burglary at residential premises,2012,26
+KZN,Babanango,Burglary at residential premises,2013,17
+KZN,Babanango,Burglary at residential premises,2014,28
+KZN,Babanango,Carjacking,2005,3
+KZN,Babanango,Carjacking,2006,1
+KZN,Babanango,Carjacking,2007,3
+KZN,Babanango,Carjacking,2008,2
+KZN,Babanango,Carjacking,2009,1
+KZN,Babanango,Carjacking,2010,0
+KZN,Babanango,Carjacking,2011,1
+KZN,Babanango,Carjacking,2012,0
+KZN,Babanango,Carjacking,2013,0
+KZN,Babanango,Carjacking,2014,0
+KZN,Babanango,Commercial crime,2005,5
+KZN,Babanango,Commercial crime,2006,8
+KZN,Babanango,Commercial crime,2007,6
+KZN,Babanango,Commercial crime,2008,4
+KZN,Babanango,Commercial crime,2009,4
+KZN,Babanango,Commercial crime,2010,3
+KZN,Babanango,Commercial crime,2011,1
+KZN,Babanango,Commercial crime,2012,2
+KZN,Babanango,Commercial crime,2013,7
+KZN,Babanango,Commercial crime,2014,4
+KZN,Babanango,Common assault,2005,35
+KZN,Babanango,Common assault,2006,24
+KZN,Babanango,Common assault,2007,37
+KZN,Babanango,Common assault,2008,37
+KZN,Babanango,Common assault,2009,26
+KZN,Babanango,Common assault,2010,30
+KZN,Babanango,Common assault,2011,35
+KZN,Babanango,Common assault,2012,26
+KZN,Babanango,Common assault,2013,24
+KZN,Babanango,Common assault,2014,38
+KZN,Babanango,Common robbery,2005,6
+KZN,Babanango,Common robbery,2006,9
+KZN,Babanango,Common robbery,2007,14
+KZN,Babanango,Common robbery,2008,13
+KZN,Babanango,Common robbery,2009,9
+KZN,Babanango,Common robbery,2010,11
+KZN,Babanango,Common robbery,2011,6
+KZN,Babanango,Common robbery,2012,6
+KZN,Babanango,Common robbery,2013,10
+KZN,Babanango,Common robbery,2014,3
+KZN,Babanango,Crimen injuria,2005,5
+KZN,Babanango,Crimen injuria,2006,7
+KZN,Babanango,Crimen injuria,2007,3
+KZN,Babanango,Crimen injuria,2008,8
+KZN,Babanango,Crimen injuria,2009,14
+KZN,Babanango,Crimen injuria,2010,7
+KZN,Babanango,Crimen injuria,2011,9
+KZN,Babanango,Crimen injuria,2012,10
+KZN,Babanango,Crimen injuria,2013,11
+KZN,Babanango,Crimen injuria,2014,0
+KZN,Babanango,Culpable homicide,2005,8
+KZN,Babanango,Culpable homicide,2006,14
+KZN,Babanango,Culpable homicide,2007,10
+KZN,Babanango,Culpable homicide,2008,16
+KZN,Babanango,Culpable homicide,2009,8
+KZN,Babanango,Culpable homicide,2010,10
+KZN,Babanango,Culpable homicide,2011,16
+KZN,Babanango,Culpable homicide,2012,0
+KZN,Babanango,Culpable homicide,2013,15
+KZN,Babanango,Culpable homicide,2014,9
+KZN,Babanango,Driving under the influence of alcohol or drugs,2005,1
+KZN,Babanango,Driving under the influence of alcohol or drugs,2006,2
+KZN,Babanango,Driving under the influence of alcohol or drugs,2007,4
+KZN,Babanango,Driving under the influence of alcohol or drugs,2008,3
+KZN,Babanango,Driving under the influence of alcohol or drugs,2009,7
+KZN,Babanango,Driving under the influence of alcohol or drugs,2010,10
+KZN,Babanango,Driving under the influence of alcohol or drugs,2011,3
+KZN,Babanango,Driving under the influence of alcohol or drugs,2012,1
+KZN,Babanango,Driving under the influence of alcohol or drugs,2013,4
+KZN,Babanango,Driving under the influence of alcohol or drugs,2014,11
