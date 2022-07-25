@@ -1,0 +1,49 @@
+Province,Province CRIME CATEGORY,CRIME CATEGORY,2007/2008,2008/2009,2009/2010,2010/2011,2011/2012,2012/2013,2013/2014,2014/2015,2015/2016,2016/2017
+RSA,RSA Rape,Rape,-,46647,48259,48158,47069,48408,45349,43195,41503,39828
+EC,EC Rape,Rape,-,6610,6854,7276,7301,7701,8212,7934,7437,6836
+FS,FS Rape,Rape,-,3212,3298,3530,3622,4022,3629,3290,3059,2702
+GP,GP Rape,Rape,-,10496,10450,9952,8970,8714,8141,7916,7605,7700
+KZN,KZN Rape,Rape,-,8824,9242,8954,8798,8861,8001,7427,7307,7032
+LP,LP Rape,Rape,-,3551,3847,3844,4045,4109,3769,3725,3731,3321
+"MP
+(15.1834, 145.725693)",MP Rape,Rape,-,3748,3625,3528,3272,3486,3251,3000,2844,2708
+NW,NW Rape,Rape,-,3782,3523,3545,3928,4331,3829,3771,3433,3615
+"NC
+(35.47995, -79.180571)",NC Rape,Rape,-,1265,1232,1310,1209,1323,1267,1181,1287,1143
+WC,WC Rape,Rape,-,5159,6188,6219,5924,5861,5250,4951,4800,4771
+RSA,RSA Sexual Assault,Sexual Assault,-,6396,6629,7006,7194,6967,6597,6087,6212,6271
+EC,EC Sexual Assault,Sexual Assault,-,615,574,645,682,741,692,636,747,753
+FS,FS Sexual Assault,Sexual Assault,-,503,500,616,649,587,553,441,484,474
+GP,GP Sexual Assault,Sexual Assault,-,1204,1040,1261,1247,1374,1249,1228,1214,1277
+KZN,KZN Sexual Assault,Sexual Assault,-,1266,1397,1449,1457,1386,1336,1138,1157,1039
+LP,LP Sexual Assault,Sexual Assault,-,218,204,227,257,290,269,245,245,240
+"MP
+(15.1834, 145.725693)",MP Sexual Assault,Sexual Assault,-,204,193,217,251,241,243,221,244,264
+NW,NW Sexual Assault,Sexual Assault,-,450,436,441,410,379,301,310,305,319
+"NC
+(35.47995, -79.180571)",NC Sexual Assault,Sexual Assault,-,277,297,295,266,240,249,228,240,235
+WC,WC Sexual Assault,Sexual Assault,-,1659,1988,1855,1975,1729,1705,1640,1576,1670
+RSA,RSA Attempted sexual offences,Attempted sexual offences,-,3808,3811,3599,3535,3293,2913,2641,2573,2073
+EC,EC Attempted sexual offences,Attempted sexual offences,-,713,745,786,688,603,509,440,430,301
+FS,FS Attempted sexual offences,Attempted sexual offences,-,305,303,257,303,277,226,208,232,154
+GP,GP Attempted sexual offences,Attempted sexual offences,-,844,729,653,594,527,429,431,353,286
+KZN,KZN Attempted sexual offences,Attempted sexual offences,-,404,451,357,382,352,290,274,271,226
+LP,LP Attempted sexual offences,Attempted sexual offences,-,323,322,300,342,314,299,262,258,195
+"MP
+(15.1834, 145.725693)",MP Attempted sexual offences,Attempted sexual offences,-,330,330,331,253,216,198,174,161,146
+NW,NW Attempted sexual offences,Attempted sexual offences,-,398,411,392,380,374,368,315,284,246
+"NC
+(35.47995, -79.180571)",NC Attempted sexual offences,Attempted sexual offences,-,214,195,157,183,210,153,128,147,154
+WC,WC Attempted sexual offences,Attempted sexual offences,-,277,325,366,410,420,441,409,437,365
+RSA,RSA Contact sexual offences,Contact sexual offences,-,12346,8293,6158,2741,2220,1821,1694,1607,1488
+EC,EC Contact sexual offences,Contact sexual offences,-,1364,727,504,330,243,203,214,183,160
+FS,FS Contact sexual offences,Contact sexual offences,-,398,420,334,211,212,176,155,153,158
+GP,GP Contact sexual offences,Contact sexual offences,-,5226,3048,1798,701,498,445,327,338,303
+KZN,KZN Contact sexual offences,Contact sexual offences,-,2564,1890,1720,397,365,262,240,212,187
+LP,LP Contact sexual offences,Contact sexual offences,-,474,434,428,192,153,86,80,135,72
+"MP
+(15.1834, 145.725693)",MP Contact sexual offences,Contact sexual offences,-,352,368,269,179,122,105,79,82,98
+NW,NW Contact sexual offences,Contact sexual offences,-,332,325,271,167,144,118,189,142,146
+"NC
+(35.47995, -79.180571)",NC Contact sexual offences,Contact sexual offences,-,148,105,95,64,53,62,41,45,55
+WC,WC Contact sexual offences,Contact sexual offences,-,1488,976,739,500,430,364,369,317,309
